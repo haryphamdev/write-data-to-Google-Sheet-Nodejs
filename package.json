@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/haryphamdev/messenger-restaurant-chat-bot.git"
+    "url": "git+https://github.com/haryphamdev/write-data-to-Google-Sheet-Nodejs.git"
   },
   "keywords": [
     "nodejs",
@@ -18,9 +18,9 @@
   "author": "Hary Pham",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/haryphamdev/messenger-restaurant-chat-bot/issues"
+    "url": "https://github.com/haryphamdev/write-data-to-Google-Sheet-Nodejs/issues"
   },
-  "homepage": "https://github.com/haryphamdev/messenger-restaurant-chat-bot#readme",
+  "homepage": "https://github.com/haryphamdev/write-data-to-Google-Sheet-Nodejs#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "dotenv": "^8.2.0",
